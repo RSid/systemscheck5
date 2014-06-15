@@ -1,3 +1,3 @@
 == README
 
-![Alt text](https://github.com/RSid/systemscheck5/blob/master/syscheckERdiagram.png)
+![ER diagram](https://github.com/RSid/systemscheck5/blob/master/syscheckERdiagram.png)
